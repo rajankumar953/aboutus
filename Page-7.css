@@ -1,0 +1,345 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Aboutus.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-family: Aladin;
+  margin: 96px auto 0;
+  padding: 8px 27px 8px 26px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 138px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3rem;
+  background-image: none;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+} .u-section-2 {
+  background-image: url("images/2236553_medium2000.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 761px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 641px;
+  background-image: url("images/Somnathyadav.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 641px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.875rem;
+  font-weight: 300;
+  margin: 207px 84px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3rem;
+  font-family: "Birthstone Bounce";
+  font-weight: 700;
+  margin: 20px 121px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 649px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 529px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 529px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 104px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 525px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 405px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 405px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 74px;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 89px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 828px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 608px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 181px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 603px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 383px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 241px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 62px;
+    margin-right: auto;
+    margin-left: -25px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 24px;
+    margin-right: auto;
+    margin-left: -30px;
+  }
+} .u-section-3 {
+  background-image: url("images/pexels-aleksandar-pasaric-1619569.jpg");
+  min-height: 541px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: calc(((100% - 1140px) / 2) + 1140px);
+  margin: 0 0 16px auto;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 535px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Grechen Fuemen";
+  font-size: 3rem;
+  margin: 52px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.5625rem;
+  margin: 26px 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 535px;
+  background-image: url("images/vikas.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 447px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: calc(((100% - 940px) / 2) + 940px);
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 441px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 441px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 344px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: calc(((100% - 720px) / 2) + 720px);
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 613px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: calc(((100% - 540px) / 2) + 540px);
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 507px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 425px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: calc(((100% - 340px) / 2) + 340px);
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 331px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: -109px;
+    margin-right: 20px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 319px;
+  }
+}
